@@ -1,0 +1,4 @@
+﻿GeneralSettingData
+title_name	Devil's Business	임시로 추출기로
+content_reset_time	00:00	0시0분 리셋됨(JST)
+GeneralSettingData END

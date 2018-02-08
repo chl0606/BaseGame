@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DataManifest version="1">
+  <Data name="GeneralSettingData" src="ConfigTable/GeneralSetting">
+    <Column name="ID" index="0" />
+    <Column name="Value" index="1" />
+    <Column name="Description" index="2" />
+  </Data>
+</DataManifest>

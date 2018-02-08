@@ -1,0 +1,69 @@
+
+[
+    {
+        "name" : "abdata",
+        "variant" : "",
+        "assets"  : [
+            "ABData"
+        ],
+        "size"    : "970"
+    },
+    {
+        "name" : "cube_unitylogo",
+        "variant" : "",
+        "assets"  : [
+            "cube_unitylogo"
+        ],
+        "size"    : "21440"
+    },
+    {
+        "name" : "cube_variant.hd",
+        "variant" : "hd",
+        "assets"  : [
+            "cube_variant"
+        ],
+        "size"    : "18497"
+    },
+    {
+        "name" : "cube_variant.sd",
+        "variant" : "sd",
+        "assets"  : [
+            "cube_variant"
+        ],
+        "size"    : "15199"
+    },
+    {
+        "name" : "figurescene",
+        "variant" : "",
+        "assets"  : [
+            "FigureScene"
+        ],
+        "size"    : "40087"
+    },
+    {
+        "name" : "localize",
+        "variant" : "",
+        "assets"  : [
+            "GameUI_KOR",
+            "ItemString_KOR"
+        ],
+        "size"    : "936"
+    },
+    {
+        "name" : "tables",
+        "variant" : "",
+        "assets"  : [
+            "DataManifest",
+            "GeneralSetting"
+        ],
+        "size"    : "1029"
+    },
+    {
+        "name" : "title",
+        "variant" : "",
+        "assets"  : [
+            "TitleWindow"
+        ],
+        "size"    : "2067936"
+    }
+]

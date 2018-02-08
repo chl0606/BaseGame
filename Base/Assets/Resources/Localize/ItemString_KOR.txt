@@ -1,0 +1,3 @@
+﻿ItemStringData
+Item_00000	시간단축권(1시간)	건물의 건설/업그레이드에 필요한 시간을 1시간 단축시킨다
+ItemStringData END

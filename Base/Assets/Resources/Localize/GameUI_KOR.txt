@@ -1,0 +1,5 @@
+﻿GameUIData
+GameUI_Login	로그인
+GameUI_OK	확인
+GameUI_Cancel	취소
+GameUIData END
